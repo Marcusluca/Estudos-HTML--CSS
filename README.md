@@ -1,2 +1,2 @@
-# Estudos-HTML--CSS
+# Estudos-HTML--CSS-JS
 Primeiro repositório
